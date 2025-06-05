@@ -1,6 +1,6 @@
 💼 Portfólio Pessoal – Maxwell Felipe
 
-🔗 [Acesse o projeto online](https://portfolio-v1-hpet.vercel.app/)
+<a href="https://portfolio-v1-hpet.vercel.app/" target="_blank">🔗 Acesse o projeto online</a>
 
 ---
 
