@@ -1,6 +1,6 @@
 💼 Portfólio Pessoal – Maxwell Felipe
 
-<a href="https://portfolio-v1-hpet.vercel.app/" target="_blank">🔗 Acesse o projeto online</a>
+<a href="https://portfolio-v1-hpet.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Acesse o projeto online</a>
 
 ---
 
@@ -84,8 +84,4 @@ portfolio_certo/
 ## 📬 Contato
 
 Se você quiser falar comigo, sugerir melhorias ou iniciar um projeto, basta usar o [form formulário de contato no site](https://portfolio-v1-hpet.vercel.app/#contato) ou me chamar pelo WhatsApp:
-📱 [(61) 99974-2815](https://wa.me/5561999742815)
-
----
-
-Se quiser, posso gerar uma imagem de preview para colocar no topo do README com um print do seu portfólio. Deseja isso? 
+📱 [(61) 99974-2815](https://wa.me/5561999742815) 
