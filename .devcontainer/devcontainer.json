@@ -1,0 +1,17 @@
+{
+    "name": "Next.js Development",
+    "dockerFile": "Dockerfile",
+    "forwardPorts": [3000],
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss",
+        "ms-vscode.vscode-typescript-next"
+    ],
+    "postCreateCommand": "pnpm install",
+    "remoteUser": "node",
+    "updateRemoteUserUID": "never"
+} 
